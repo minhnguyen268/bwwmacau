@@ -37,8 +37,8 @@ const NextSeoConfig = {
     appId: process.env.FACEBOOK_APPID,
   },
   twitter: {
-    handle: "@BwwMacau",
-    site: "@BwwMacau",
+    handle: "@SandSGP",
+    site: "@SandSGP",
     cardType: "summary_large_image",
   },
 };
