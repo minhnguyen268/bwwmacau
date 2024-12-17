@@ -1,8 +1,8 @@
 const NextSeoConfig = {
   title: null,
-  titleTemplate: "%s | Xổ số SandSGP",
-  defaultTitle: "Xổ số SandSGP",
-  description: "SandSGP - Hệ thống chơi xổ số trực tuyến",
+  titleTemplate: "%s | Casino Keno BwwMacau",
+  defaultTitle: "Casino Keno BWWMACAU",
+  description: "BWWMACAU - Hệ thống chơi xổ số keno trực tuyến",
   additionalMetaTags: [
     {
       property: "keywords",
@@ -23,8 +23,8 @@ const NextSeoConfig = {
     type: "website",
     locale: "vi_VN",
     url: process.env.NEXTAUTH_URL,
-    siteName: "Xổ số SandSGP",
-    description: "Xổ số SandSGP",
+    siteName: "Casino Keno BwwMacau",
+    description: "Casino Keno BwwMacau",
     images: [
       {
         url: "https://i.ibb.co/0cQnxF3/bannerimg.jpg",
@@ -37,8 +37,8 @@ const NextSeoConfig = {
     appId: process.env.FACEBOOK_APPID,
   },
   twitter: {
-    handle: "@SandSGP",
-    site: "@SandSGP",
+    handle: "@BwwMacau",
+    site: "@BwwMacau",
     cardType: "summary_large_image",
   },
 };
